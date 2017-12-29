@@ -1,0 +1,12 @@
+jupyter
+jupyterlab
+pandas
+numpy
+scipy
+scikit-learn
+matplotlib
+seaborn
+psycopg2
+sqlalchemy
+sklearn
+sqlalchemy-redshift
